@@ -1,0 +1,4 @@
+attendance.db
+attendance_report.csv
+__pycache__/
+*.pyc
